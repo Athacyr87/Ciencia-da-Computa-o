@@ -1,0 +1,11 @@
+D:\HtmlEditor\HtmlEditor\HtmlEditor\bin\Debug\HtmlEditor.exe.config
+D:\HtmlEditor\HtmlEditor\HtmlEditor\bin\Debug\HtmlEditor.exe
+D:\HtmlEditor\HtmlEditor\HtmlEditor\bin\Debug\HtmlEditor.pdb
+D:\HtmlEditor\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.Form1.resources
+D:\HtmlEditor\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.Properties.Resources.resources
+D:\HtmlEditor\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.csproj.GenerateResource.Cache
+D:\HtmlEditor\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.exe
+D:\HtmlEditor\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.pdb
+C:\Users\Athacyr\Downloads\HTML5-codigos-main\HTML5-codigos-main\HtmlEditor\HtmlEditor\bin\Debug\HtmlEditor.exe.config
+C:\Users\Athacyr\Downloads\HTML5-codigos-main\HTML5-codigos-main\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.exe
+C:\Users\Athacyr\Downloads\HTML5-codigos-main\HTML5-codigos-main\HtmlEditor\HtmlEditor\obj\Debug\HtmlEditor.pdb
