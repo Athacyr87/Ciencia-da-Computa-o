@@ -1,0 +1,6 @@
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\bin\Debug\NotePadConsole.exe.config
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\bin\Debug\NotePadConsole.exe
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\bin\Debug\NotePadConsole.pdb
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\obj\Debug\NotePadConsole.csprojResolveAssemblyReference.cache
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\obj\Debug\NotePadConsole.exe
+C:\Users\Athacyr\Documents\visual studio 2015\Projects\NotePadConsole\obj\Debug\NotePadConsole.pdb
